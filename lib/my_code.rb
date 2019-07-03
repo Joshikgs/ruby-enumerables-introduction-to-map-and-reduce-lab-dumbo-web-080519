@@ -57,9 +57,7 @@ def reduce_to_any_true(source_array)
   result = false
   if source_array.each
     result = true
-  else
-    result = false
-    end
+  end
   result
   end
 result
