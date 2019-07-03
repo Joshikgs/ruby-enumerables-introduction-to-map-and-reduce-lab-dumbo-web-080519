@@ -60,7 +60,7 @@ def reduce_to_any_true(source_array)
   else
     result = false
     end
-    result
+  result
   end
 result
 end
